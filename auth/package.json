@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "@simplewebauthn/server": "^10.0.1",
+    "@supabase/supabase-js": "^2.45.0",
+    "postmark": "^4.0.4",
+    "uuid": "^10.0.0"
+  }
+}
